@@ -1,4 +1,4 @@
-# GhostCommands 👻
+#  NyquistFold 
 ### DSP Aliasing Vulnerability Research — Audio Adversarial ML
 
 > *"The AI couldn't hear the attack. Neither could you."*
@@ -25,7 +25,7 @@ Real-world targets: Siri, Google Assistant, Alexa, Cortana — all confirmed vul
 ## Repo Structure
 
 ```
-ghostcommands/
+NyquistFold/
 ├── simulate/
 │   └── aliasing_demo.py      # Math layer — prove aliasing happens in software
 ├── analyze/
